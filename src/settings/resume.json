@@ -1,0 +1,128 @@
+{
+    "basics": {
+        "name": "Alonso Cedeño",
+        "label": "Front-end Developer",
+        "email": "acsanchez2909@gmail.com",
+        "phone": "(+506) 8992-9113",
+        "picture": "",
+        "x_title": "Hello, I'm",
+        "job1": "Front-end",
+        "job2": "Developer",
+        "description": "Hello! I'm Alonso! Your Front-end development enthusiast. Always down for something new and challenging!. I'm here to help you create beautifully formatted websites.",
+        "summary": "based in San José, Costa Rica.",
+        "keywords": "personal,website,portfolio,template,kit,alomso,cedeno,frontend,webdev,web,developer,sanjose,costarica,react,github,linkedin,google,gitlab,telegram,material,design,ui,webapp",
+        "url": "",
+        "location": {
+            "address": "Cipreses de Curridabat",
+            "postalCode": "11801",
+            "city": "San José",
+            "country": "Costa Rica",
+            "countryCode": "Sj.",
+            "region": "Curridabat"
+        },
+        "profiles": [
+            {
+                "network": "Google",
+                "username": "acsanchez2909@gmail.com",
+                "url": "mailto:acsanchez2909@gmail.com",
+                "x_icon": "fab fa-google"
+            },
+            {
+                "network": "LinkedIn",
+                "username": "Luis Alonso Cedeño Sanchez",
+                "url": "https://www.linkedin.com/in/luis-alonso-cede%C3%B1o-sanchez-b5a64b71/",
+                "x_icon": "fab fa-linkedin-in"
+            },
+            {
+                "network": "GitHub",
+                "username": "prograCoud",
+                "url": "https://github.com/prograCoud",
+                "x_icon": "fab fa-github"
+            }
+           
+        ]
+    },
+    "work": [
+        {
+            "company": "Company",
+            "position": "President",
+            "website": "http://company.com",
+            "startDate": "2013-01-01",
+            "endDate": "2014-01-01",
+            "summary": "Description...",
+            "highlights": ["Started the company"]
+        }
+    ],
+    "volunteer": [
+        {
+            "organization": "Organization",
+            "position": "Volunteer",
+            "website": "http://organization.com/",
+            "startDate": "2012-01-01",
+            "endDate": "2013-01-01",
+            "summary": "Description...",
+            "highlights": ["Awarded 'Volunteer of the Month'"]
+        }
+    ],
+    "education": [
+        {
+            "institution": "University",
+            "area": "Software Development",
+            "studyType": "Bachelor",
+            "startDate": "2011-01-01",
+            "endDate": "2013-01-01",
+            "gpa": "4.0",
+            "courses": ["DB1101 - Basic SQL"]
+        }
+    ],
+    "awards": [
+        {
+            "title": "Award",
+            "date": "2014-11-01",
+            "awarder": "Company",
+            "summary": "There is no spoon."
+        }
+    ],
+    "publications": [
+        {
+            "name": "Publication",
+            "publisher": "Company",
+            "releaseDate": "2014-10-01",
+            "website": "http://publication.com",
+            "summary": "Description..."
+        }
+    ],
+    "skills": [
+        {
+            "name": "Web Development",
+            "level": "Master",
+            "keywords": ["HTML", "CSS", "Javascript"]
+        }
+    ],
+    "languages": [
+        {
+            "language": "Spanish",
+            "fluency": "Native speaker"
+        },
+        {
+            "language": "English",
+            "fluency": "Fluent speaker"
+        },
+        {
+            "language": "Portugues",
+            "fluency": "Good knowledge"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Wildlife",
+            "keywords": ["Ferrets", "Unicorns"]
+        }
+    ],
+    "references": [
+        {
+            "name": "Jane Doe",
+            "reference": "Reference..."
+        }
+    ]
+}
